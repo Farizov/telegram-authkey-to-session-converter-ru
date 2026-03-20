@@ -39,9 +39,9 @@
 ## 💳 Подписки
 | Тариф       | Количество аккаунтов / период                              |
 |-------------|-------------------------------------------------------------|
-| **Basic**   | 1 000 аккаунтов – 30 дней (или до первого лимита)          |
-| **Premium** | 10 000 аккаунтов – 365 дней (или до первого лимита)        |
-| **Unlimited** | Безлимитное количество аккаунтов и операций – пожизненно |
+| **Месяц**   | 1 000 аккаунтов – 30 дней (или до первого лимита)          |
+| **Годовая** | 10 000 аккаунтов – 365 дней (или до первого лимита)        |
+| **Вечная** | Безлимитное количество аккаунтов и операций – пожизненно |
 
 ---
 ## 🎥 Видео
@@ -57,12 +57,11 @@
 ## 📬 Контакты
 | Канал       | Ссылка                                                      |
 |-------------|-------------------------------------------------------------|
-| Email       | manager[@]telegramprime.net                                 |
-| Telegram    | [Написать](https://telegramprime.net/telegram-contact)      |
-| Discord     | [Написать](https://telegramprime.net/discord-contact)       |
-| Element     | [Написать](https://telegramprime.net/element-contact)       |
-| Website (EN)| https://telegramprime.net/                                  |
-| Website (RU)| https://telegramprime.com/                                  |
+| Email       | manager[@]telegram-converter.com                            |
+| Telegram    | [Написать](https://telegram-converter.com/telegram-contact) |
+| Discord     | [Написать](https://telegram-converter.com/discord-contact)  |
+| Element     | [Написать](https://telegram-converter.com/element-contact)  |
+| Website     | https://telegram-converter.com/                             |
 
 ---
 ## ☕️ Пожертвования
