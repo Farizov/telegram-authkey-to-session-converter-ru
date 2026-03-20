@@ -60,7 +60,7 @@
 | Email       | manager[@]telegram-converter.com                            |
 | Telegram    | [Написать](https://telegram-converter.com/telegram-contact) |
 | Discord     | [Написать](https://telegram-converter.com/discord-contact)  |
-| Element     | [Написать](https://telegram-converter.com/element-contact)  |
+| Matrix      | [Написать](https://telegram-converter.com/matrix-contact)   |
 | Website     | https://telegram-converter.com/                             |
 
 ---
